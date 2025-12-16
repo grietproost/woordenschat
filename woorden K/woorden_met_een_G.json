@@ -1,0 +1,20 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/giet.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/giet.webm",
+      "naam": "giet"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/gaas.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/gaas.webm",
+      "naam": "gaas"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/gom.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/gom.webm",
+      "naam": "gom"
+    }
+  ]
+}
