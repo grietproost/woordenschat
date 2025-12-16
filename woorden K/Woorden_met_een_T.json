@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tak.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tak.webm",
+      "naam": "tak"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tas.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tas.webm",
+      "naam": "tas"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/teen.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/teen.webm",
+      "naam": "teen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tem.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tem.webm",
+      "naam": "tem"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tien.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tien.webm",
+      "naam": "tien"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/teil.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/teil.webm",
+      "naam": "teil"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/touw.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/touw.webm",
+      "naam": "touw"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tuin.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20K/tuin.webm",
+      "naam": "tuin"
+    }
+  ]
+}
