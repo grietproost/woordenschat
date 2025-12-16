@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tien.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tien.webm",
+      "naam": "tien"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/teen.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/teen.webm",
+      "naam": "teen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tak.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tak.webm",
+      "naam": "tak"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tas.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tas.webm",
+      "naam": "tas"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tem.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tem.webm",
+      "naam": "tem"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tuin.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tuin.webm",
+      "naam": "tuin"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/touw.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/touw.webm",
+      "naam": "touw"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tijl.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden K/tijl.webm",
+      "naam": "tijl"
+    }
+  ]
+}
