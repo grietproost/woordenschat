@@ -1,0 +1,30 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/handen wassen.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/handen wassen.webm",
+      "naam": "handen wassen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/slapen.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/slapen.webm",
+      "naam": "slapen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/de kraan.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/de kraan.webm",
+      "naam": "de kraan"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/de televisie.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/de televisie.webm",
+      "naam": "de televisie"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/de zolder.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/de zolder.webm",
+      "naam": "de zolder"
+    }
+  ]
+}
