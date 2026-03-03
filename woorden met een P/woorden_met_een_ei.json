@@ -1,0 +1,30 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/kei.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/kei.webm",
+      "naam": "kei"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/geit.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/geit.webm",
+      "naam": "geit"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/sein.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/sein.webm",
+      "naam": "sein"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/wei.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/wei.webm",
+      "naam": "wei"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/teil.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/teil.webm",
+      "naam": "teil"
+    }
+  ]
+}
