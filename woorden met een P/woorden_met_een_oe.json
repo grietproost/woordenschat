@@ -1,0 +1,55 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/boek.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/boek.webm",
+      "naam": "boek"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20met%20een%20P/doek.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20met%20een%20P/doek.webm",
+      "naam": "doek"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20met%20een%20P/duim.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20met%20een%20P/duim.webm",
+      "naam": "duim"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/soep.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/soep.webm",
+      "naam": "soep"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/boer.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/boer.webm",
+      "naam": "boer"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/koe.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/koe.webm",
+      "naam": "koe"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/koek.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/koek.webm",
+      "naam": "koek"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20met%20een%20P/poes.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden%20met%20een%20P/poes.webm",
+      "naam": "poes"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/hoek.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/hoek.webm",
+      "naam": "hoek"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/voet.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden met een P/voet.webm",
+      "naam": "voet"
+    }
+  ]
+}
