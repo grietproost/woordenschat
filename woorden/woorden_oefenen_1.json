@@ -1,0 +1,110 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/vis.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/vis.webm",
+      "naam": "vis"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/vaas.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/vaas.webm",
+      "naam": "vaas"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/pet.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/pet.webm",
+      "naam": "pet"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/pit.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/pit.webm",
+      "naam": "pit"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/rem.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/rem.webm",
+      "naam": "rem"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/reep.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/reep.webm",
+      "naam": "reep"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/raak.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/raak.webm",
+      "naam": "raak"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/roos.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/roos.webm",
+      "naam": "roos"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/room.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/room.webm",
+      "naam": "room"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/ree.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/ree.webm",
+      "naam": "ree"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/boom.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/boom.webm",
+      "naam": "boom"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/beer.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/beer.webm",
+      "naam": "beer"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/bes.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/bes.webm",
+      "naam": "bes"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/pen.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/pen.webm",
+      "naam": "pen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/poot.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/poot.webm",
+      "naam": "poot"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/ver.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/ver.webm",
+      "naam": "ver"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/vaar.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/vaar.webm",
+      "naam": "vaar"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/beek.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/beek.webm",
+      "naam": "beek"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kip.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kip.webm",
+      "naam": "kip"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kaas.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kaas.webm",
+      "naam": "kaas"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kim.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kim.webm",
+      "naam": "kim"
+    }
+  ]
+}
