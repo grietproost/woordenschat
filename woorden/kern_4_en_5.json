@@ -1,0 +1,111 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/bot.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/bot.webm",
+      "naam": "bot"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/hok.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/hok.webm",
+      "naam": "hok"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kok.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kok.webm",
+      "naam": "kok"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/rok.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/rok.webm",
+      "naam": "rok"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/zon.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/zon.webm",
+      "naam": "zon"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/zak.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/zak.webm",
+      "naam": "zak"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kom.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kom.webm",
+      "naam": "kom"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kar.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/kar.webm",
+      "naam": "kar"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/hut.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/hut.webm",
+      "naam": "hut"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/heup.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/heup.webm",
+      "naam": "heup"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/wiek.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/wiek.webm",
+      "naam": "wiek"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/lam.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/lam.webm",
+      "naam": "lam"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/piek.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/piek.webm",
+      "naam": "piek"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/lus.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/lus.webm",
+      "naam": "lus"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/touw.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/touw.webm",
+      "naam": "touw"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/bouw.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/bouw.webm",
+      "naam": "bouw"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/hout.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/hout.webm",
+      "naam": "hout"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/zuur.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/zuur.webm",
+      "naam": "zuur"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/duur.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/duur.webm",
+      "naam": "duur"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/jeuk.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/jeuk.webm",
+      "naam": "jeuk"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/deuk.png",
+      "audio": "https://raw.githubusercontent.com/grietproost/woordenschat/main/woorden/deuk.webm",
+      "naam": "deuk"
+    }
+  ],
+  "wachttijd": 10
+}
